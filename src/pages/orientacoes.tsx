@@ -12,12 +12,12 @@ import Link from 'next/link'
 const Orientacoes = () => (
   <>
     <Head>
-      <title>Funeriaria N. Sra. de Lourdes - Orientações</title>
+      <title>Funerária N. Sra. de Lourdes - Orientações</title>
     </Head>
     <Navbar />
 
     <ImageLayout
-      image="/images/outono.jpg"
+      image="/images/cemetery-3.jpeg"
       title="Passo a passo"
       text="Do que fazer quando um ente querido falece!"
       button={false}
@@ -69,7 +69,7 @@ const Orientacoes = () => (
             <TextCard text="Ligue para a funerária" number="2º" />
             <TextCard text="Agora tudo é com a funerária" number="3º" />
             <TextCard
-              text="Agendar o velório e o cemitério da escolha da família"
+              text="Escolha da urna/caixão conforme decisão da família"
               number="4º"
             />
             <TextCard text="Solicitar declaração de óbito" number="5º" />

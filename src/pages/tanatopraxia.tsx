@@ -40,16 +40,14 @@ const Tanatopraxia = () => (
             </h1>
 
             <p className="text-xl my-4 text-gray-500">
-              Tanatopraxia é uma técnica antiga, que visa preservar a boa
-              aparência do falecido. A ideia é conservar o corpo e prepará-lo
-              para o velório ou cerimônia de despedida. Normalmente, esses
-              momentos são marcados pelas lembranças boas e saudade. Logo, é
-              necessário prezar pela imagem da pessoa também.
+              Quando passamos pelo processo de perda de um ente querido, a
+              última aparência é aquela que fica para sempre na nossa memória. A
+              realização da <strong>tanatopraxia</strong> se constitui num gesto
+              de amor e carinho, pois além de amenizar as transformações
+              próprias do corpo, contribui no processo do luto.
             </p>
             <p className="text-xl my-4 text-gray-500">
-              Aliás, vale a pena frisar, se trata de uma prática utilizada em
-              vários países do mundo. Ela não está relacionada a nenhum processo
-              interno, como a necropsia ou a retirada de órgãos, por exemplo.
+              Fale com um dos nossos colaboradores e tenha mais informações.
             </p>
           </div>
         </div>

@@ -37,12 +37,12 @@ const Home = () => (
             </h1>
 
             <p className="text-xl my-4 text-gray-500">
-              Você já deve ter visto nos noticiários casos de pessoas que vêm a
-              óbito em uma localidade e precisam ser transportadas para outro
-              lugar. Em geral, isso ocorre quando o falecido reside longe da
-              família, sofre um acidente em outra região ou, até mesmo, quando
-              há a necessidade de mover o corpo de um cemitério para outro, por
-              exemplo.
+              Com atendimento 24 horas, sistema ágil e personalizado com frota
+              própria, profissionais treinados e qualificados, realizamos
+              translado funerário terrestre para transporte de ente querido
+              entre cidades; estados, dependendo da distância; jazigos e
+              cemitérios. Com todo acolhimento e responsabilidade para dar total
+              apoio às famílias num momento tão delicado.
             </p>
             <p className="text-xl my-4 text-gray-500">
               Quanto maior a distância entre o local de falecimento e o destino

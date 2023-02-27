@@ -17,9 +17,9 @@ const Home = () => (
     <Navbar />
 
     <ImageLayout
-      image="/images/cemetery.jpg"
-      title="Atenção e carinho"
-      text="Cuidamos de tudo para você nesse momento!"
+      image="/images/cemetery-2.jpeg"
+      title="Acolhimento familiar"
+      text="No momento mais difícil precisamos contar com quem tem experiência de mercado."
       button
     />
 
