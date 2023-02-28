@@ -43,8 +43,8 @@ const Home = () => (
 
             <p className="text-2xl my-4 text-gray-500">
               Certidão de óbito, remoção, tanatopraxia, translado, higienização,
-              urna, ornamentação do corpo, paramentação, coroa de flores, livro
-              de presença.
+              urna/caixão, ornamentação do corpo, paramentação, coroa de flores,
+              livro de presença.
             </p>
 
             <ul className="list-disc text-lg mx-4 text-gray-500">
